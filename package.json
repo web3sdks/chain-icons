@@ -1,6 +1,6 @@
 {
   "name": "@web3sdks/chain-icons",
-  "version": "1.0.5",
+  "version": "0.0.1",
   "description": "",
   "source": "src/index.ts",
   "main": "dist/index.js",
